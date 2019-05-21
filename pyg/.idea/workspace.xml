@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94759bcc-00e4-4563-8f9d-6701f7a6989c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/user_center_order.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/order.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="285" column="37" selection-start-line="285" selection-start-column="37" selection-end-line="285" selection-end-column="37" />
+              <folding>
+                <element signature="e#230#258#0" />
+                <element signature="n#!!block;n#ShowOrder#0" />
+                <element signature="e#385#437#0" />
+                <element signature="e#744#776#0" />
+                <element signature="e#892#1347#0" />
+                <element signature="n#!!block;n#HandlePushOrder#0" />
+                <element signature="e#1987#2049#0" />
+                <element signature="e#2138#2200#0" />
+                <element signature="e#2941#4238#0" />
+                <element signature="e#3478#3557#0" />
+                <element signature="e#3782#3848#0" />
+                <element signature="e#3864#3950#0" />
+                <element signature="e#4002#4082#0" />
+                <element signature="e#4153#4235#0" />
+                <element signature="n#!!block;n#Pay#0" />
+                <element signature="e#4410#4463#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/user.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1932">
+              <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
+              <folding>
+                <element signature="e#368#396#0" />
+                <element signature="n#!!block;n#ShowRegister#0" />
+                <element signature="n#!!block;n#HandleSendMsg#0" />
+                <element signature="e#708#796#0" />
+                <element signature="e#901#964#0" />
+                <element signature="e#1128#1223#0" />
+                <element signature="e#2162#2242#0" />
+                <element signature="e#2424#2504#0" />
+                <element signature="n#!!block;n#RespFunc#0" />
+                <element signature="e#2767#2914#0" />
+                <element signature="n#!!block;n#HandleRegister#0" />
+                <element signature="e#3138#3208#0" />
+                <element signature="n#!!block;n#ShowEmailRegitser#0" />
+                <element signature="n#!!block;n#SendEmailRegister#0" />
+                <element signature="e#3671#3758#0" />
+                <element signature="e#3885#3966#0" />
+                <element signature="e#4027#4103#0" />
+                <element signature="e#4277#4355#0" />
+                <element signature="e#4753#4848#0" />
+                <element signature="n#!!block;n#ActiveEmail#0" />
+                <element signature="e#5040#5116#0" />
+                <element signature="e#5226#5304#0" />
+                <element signature="n#!!block;n#ShowLogin#0" />
+                <element signature="n#!!block;n#HandleLogin#0" />
+                <element signature="e#5649#5718#0" />
+                <element signature="e#5883#5953#0" />
+                <element signature="n#!!block;n#LoginOut#0" />
+                <element signature="n#!!block;n#ShowUserCenterInfo#0" />
+                <element signature="e#6288#6311#0" />
+                <element signature="e#6446#6469#0" />
+                <element signature="e#6561#6669#0" />
+                <element signature="n#!!block;n#ShowSite#0" />
+                <element signature="e#7230#7272#0" />
+                <element signature="e#7278#7413#0" />
+                <element signature="n#!!block;n#HandleSite#0" />
+                <element signature="e#7880#7964#0" />
+                <element signature="e#8146#8236#0" />
+                <element signature="e#8612#8678#0" />
+                <element signature="n#!!block;n#ShowOrders#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/goods.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1764">
+              <caret line="159" column="18" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
+              <folding>
+                <element signature="e#187#215#0" />
+                <element signature="n#!!block;n#ShowIndex#0" />
+                <element signature="e#581#630#0" />
+                <element signature="e#636#674#0" />
+                <element signature="e#912#1140#0" />
+                <element signature="e#1177#1558#0" />
+                <element signature="e#1277#1497#0" />
+                <element signature="n#!!block;n#ShowIndexSx#0" />
+                <element signature="e#2262#2765#0" />
+                <element signature="e#4513#4536#0" />
+                <element signature="e#4677#4700#0" />
+                <element signature="n#!!block;n#ShowList#0" />
+                <element signature="e#4922#4992#0" />
+                <element signature="e#5365#5385#0" />
+                <element signature="e#5527#5545#0" />
+                <element signature="e#5551#5581#0" />
+                <element signature="e#5612#5639#0" />
+                <element signature="e#5645#5676#0" />
+                <element signature="e#5818#5839#0" />
+                <element signature="e#5864#5902#0" />
+                <element signature="e#5908#5947#0" />
+                <element signature="n#!!block;n#PageEdit#0" />
+                <element signature="e#6241#6313#0" />
+                <element signature="e#6277#6310#0" />
+                <element signature="e#6337#6401#0" />
+                <element signature="e#6365#6398#0" />
+                <element signature="e#6435#6519#0" />
+                <element signature="e#6483#6516#0" />
+                <element signature="e#6525#6611#0" />
+                <element signature="e#6575#6608#0" />
+                <element signature="n#!!block;n#Search#0" />
+                <element signature="e#6746#6816#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http</find>
+      <find>make</find>
+      <find>read</find>
+      <find>p</find>
+      <find>#show_count</find>
+      <find>top</find>
+      <find>show_count'</find>
+      <find>show_count</find>
+      <find>goodsId</find>
+      <find>我的购物车</find>
+      <find>allCheck</find>
+      <find>goodsid</find>
+      <find>num_add</find>
+      <find>count</find>
+      <find>.add</find>
+      <find>add</find>
+      <find>delete</find>
+      <find>删除</find>
+      <find>num_show</find>
+      <find>去结算</find>
+      <find>结算</find>
+      <find>checkGoods</find>
+      <find>col01</find>
+      <find>payId</find>
+      <find>192</find>
+      <find>form</find>
+      <find>goodsIds</find>
+      <find>logo</find>
+      <find>goodsDetail</find>
+      <find>ShowOrders</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/index.html" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="D:/学习资料/beego项目/day04/传送文件/pyg3/pyg/controllers/goods.go" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa9132.10677/article.go" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa12784.42626/article.go" />
+        <option value="$PROJECT_DIR$/tests/t.go" />
+        <option value="$PROJECT_DIR$/../../github.com/weilaihui/fdfs_client/client.go" />
+        <option value="$PROJECT_DIR$/views/index_sx.html" />
+        <option value="$PROJECT_DIR$/views/list.html" />
+        <option value="$PROJECT_DIR$/views/search.html" />
+        <option value="D:/学习资料/beego项目/day05/传送文件/pyg/pyg/views/detail.html" />
+        <option value="$PROJECT_DIR$/views/detail.html" />
+        <option value="D:/学习资料/beego项目/day05/传送文件/pyg1/pyg/controllers/cart.go" />
+        <option value="$PROJECT_DIR$/views/tt.html" />
+        <option value="$PROJECT_DIR$/controllers/cart.go" />
+        <option value="$PROJECT_DIR$/models/data.go" />
+        <option value="$PROJECT_DIR$/views/cart.html" />
+        <option value="D:/学习资料/beego项目/day06/传送文件/pyg6/pyg/controllers/order.go" />
+        <option value="$PROJECT_DIR$/views/place_order.html" />
+        <option value="$PROJECT_DIR$/views/user_center_order.html" />
+        <option value="$PROJECT_DIR$/controllers/goods.go" />
+        <option value="$PROJECT_DIR$/views/user_center_info.html" />
+        <option value="$PROJECT_DIR$/views/user_center_layout.html" />
+        <option value="$PROJECT_DIR$/views/sxlayout.html" />
+        <option value="$PROJECT_DIR$/routers/router.go" />
+        <option value="$PROJECT_DIR$/controllers/order.go" />
+        <option value="$PROJECT_DIR$/controllers/user.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-14" />
+    <option name="width" value="2184" />
+    <option name="height" value="1469" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyg" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="GO_FMT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zinx" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build t.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="pyg" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/tests/t.go" />
+      <package value="pyg/pyg" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build t.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1248" height="840" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2504052" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09633357" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.5244845" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5122265" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1904376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09633357" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.15741935" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alipay" />
+    <option name="LAST_COMMIT_MESSAGE" value="alipay" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/controllers/cart.go</url>
+          <line>157</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-683">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/传送文件/pyg/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="40" selection-start-line="38" selection-start-column="3" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/传送文件/pyg/pyg/controllers/cart.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/传送文件/pyg/pyg/views/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1944">
+          <caret line="93" column="65" lean-forward="true" selection-start-line="93" selection-start-column="65" selection-end-line="93" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/传送文件/pyg2/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="40" column="2" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/传送文件/pyg2/pyg/controllers/cart.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="116" column="1" selection-start-line="65" selection-end-line="116" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#HandleAddCart#0" />
+            <element signature="n#!!block;n#ShowCart#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/传送文件/pyg1/pyg/controllers/cart.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#21#95#0" expanded="true" />
+            <element signature="e#117#145#0" />
+            <element signature="n#!!block;n#HandleAddCart#0" />
+            <element signature="e#264#274#0" />
+            <element signature="e#418#480#0" />
+            <element signature="e#539#609#0" />
+            <element signature="e#612#618#0" />
+            <element signature="e#708#768#0" />
+            <element signature="e#934#999#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="32" column="55" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/资料/day11/4-代码/pyg/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/资料/day11/4-代码/pyg/pyg/controllers/cart.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="154" column="1" selection-start-line="117" selection-end-line="154" selection-end-column="1" />
+          <folding>
+            <element signature="e#167#195#0" />
+            <element signature="n#!!block;n#HandleAddCart#0" />
+            <element signature="e#322#332#0" />
+            <element signature="e#476#538#0" />
+            <element signature="e#597#667#0" />
+            <element signature="e#670#676#0" />
+            <element signature="e#766#826#0" />
+            <element signature="e#992#1057#0" />
+            <element signature="n#!!block;n#ShowCart#0" />
+            <element signature="e#1251#1297#0" />
+            <element signature="e#1448#1494#0" />
+            <element signature="e#1625#2032#0" />
+            <element signature="n#!!block;n#HandleUpCart#0" />
+            <element signature="e#2408#2470#0" />
+            <element signature="e#2520#2582#0" />
+            <element signature="e#2667#2731#0" />
+            <element signature="e#2824#2888#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day05/资料/day11/4-代码/pyg/pyg/views/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1334">
+          <caret line="144" column="13" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/tt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg2/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="46" selection-start-line="44" selection-start-column="4" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg2/pyg/controllers/cart.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="195" column="25" lean-forward="true" selection-start-line="159" selection-start-column="4" selection-end-line="195" selection-end-column="25" />
+          <folding>
+            <element signature="e#167#195#0" />
+            <element signature="n#!!block;n#HandleAddCart#0" />
+            <element signature="e#323#333#0" />
+            <element signature="e#477#539#0" />
+            <element signature="e#598#668#0" />
+            <element signature="e#671#677#0" />
+            <element signature="e#767#827#0" />
+            <element signature="e#993#1058#0" />
+            <element signature="n#!!block;n#ShowCart#0" />
+            <element signature="e#1252#1298#0" />
+            <element signature="e#1449#1495#0" />
+            <element signature="e#1626#2033#0" />
+            <element signature="n#!!block;n#HandleUpCart#0" />
+            <element signature="e#2409#2471#0" />
+            <element signature="e#2521#2583#0" />
+            <element signature="e#2668#2732#0" />
+            <element signature="e#2825#2889#0" />
+            <element signature="e#3142#3203#0" />
+            <element signature="e#3267#3332#0" />
+            <element signature="e#3415#3475#0" />
+            <element signature="e#3563#3623#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg2/pyg/views/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/model.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="117" column="1" selection-start-line="94" selection-end-line="117" selection-end-column="1" />
+          <folding>
+            <element signature="e#114#464#0" />
+            <element signature="e#479#818#0" />
+            <element signature="e#831#982#0" />
+            <element signature="e#999#1204#0" />
+            <element signature="e#1220#1903#0" />
+            <element signature="e#1921#2024#0" />
+            <element signature="e#2047#2199#0" />
+            <element signature="e#2227#2467#0" />
+            <element signature="e#2495#2673#0" />
+            <element signature="e#2690#3169#0" />
+            <element signature="e#3187#3409#0" />
+            <element signature="n#!!block;n#init#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg3/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="48" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg3/pyg/views/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="54" column="124" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="124" />
+          <folding>
+            <element signature="n#ul#1;n#form#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg3/pyg/views/place_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="6" lean-forward="true" selection-end-line="146" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg3/pyg/controllers/order.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#331#382#0" />
+            <element signature="e#384#390#0" />
+            <element signature="e#773#1224#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg4/pyg/views/place_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="169" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg4/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="50" selection-start-line="48" selection-start-column="3" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg4/pyg/controllers/order.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="83" column="1" selection-start-line="74" selection-end-line="83" selection-end-column="1" />
+          <folding>
+            <element signature="e#179#207#0" />
+            <element signature="n#!!block;n#ShowOrder#0" />
+            <element signature="e#340#391#0" />
+            <element signature="e#393#399#0" />
+            <element signature="e#782#1233#0" />
+            <element signature="n#!!block;n#HandlePushOrder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Go/src/time/time.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="1086" column="5" selection-start-line="1086" selection-start-column="5" selection-end-line="1086" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg6/pyg/models/model.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg6/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/data.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="e#114#365#0" />
+            <element signature="e#380#596#0" />
+            <element signature="e#618#855#0" />
+            <element signature="e#868#1040#0" />
+            <element signature="e#1057#1344#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../github.com/astaxie/beego/controller.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="627" column="21" selection-start-line="627" selection-start-column="21" selection-end-line="627" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg6/pyg/views/place_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="161" column="31" lean-forward="true" selection-end-line="171" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/place_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="103" column="63" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day06/传送文件/pyg6/pyg/controllers/order.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="36" />
+          <folding>
+            <element signature="e#198#226#0" />
+            <element signature="e#359#410#0" />
+            <element signature="n#!!block;n#HandlePushOrder#0" />
+            <element signature="e#1876#1938#0" />
+            <element signature="e#2026#2088#0" />
+            <element signature="e#2800#3619#0" />
+            <element signature="e#3270#3333#0" />
+            <element signature="e#3458#3522#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../github.com/astaxie/beego/orm/types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day07/传送文件/pyg/pyg/controllers/order.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="204" column="1" selection-start-line="76" selection-end-line="204" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#ShowOrder#0" />
+            <element signature="n#!!block;n#HandlePushOrder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day07/传送文件/pyg3/pyg/controllers/order.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="272" column="1" lean-forward="true" selection-start-line="272" selection-start-column="1" selection-end-line="272" selection-end-column="1" />
+          <folding>
+            <element signature="e#230#258#0" />
+            <element signature="n#!!block;n#ShowOrder#0" />
+            <element signature="e#391#442#0" />
+            <element signature="e#444#450#0" />
+            <element signature="e#833#1284#0" />
+            <element signature="n#!!block;n#HandlePushOrder#0" />
+            <element signature="e#1908#1970#0" />
+            <element signature="e#2058#2120#0" />
+            <element signature="e#2122#2128#0" />
+            <element signature="e#2729#2737#0" />
+            <element signature="e#2850#4093#0" />
+            <element signature="e#3381#3460#0" />
+            <element signature="e#3463#3488#0" />
+            <element signature="e#3643#3704#0" />
+            <element signature="e#3720#3806#0" />
+            <element signature="e#3859#3939#0" />
+            <element signature="e#4007#4089#0" />
+            <element signature="n#!!block;n#Pay#0" />
+            <element signature="e#4259#4311#0" />
+            <element signature="e#4498#4898#1" />
+            <element signature="e#4915#6534#1" />
+            <element signature="e#6932#6958#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day07/传送文件/pyg3/pyg/views/user_center_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day07/传送文件/pyg3/pyg/controllers/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="479" column="1" lean-forward="true" selection-start-line="454" selection-end-line="479" selection-end-column="1" />
+          <folding>
+            <element signature="e#321#350#0" />
+            <element signature="n#!!block;n#ShowRegister#0" />
+            <element signature="n#!!block;n#RespFunc#0" />
+            <element signature="e#588#659#0" />
+            <element signature="n#!!block;n#HandleSendMsg#0" />
+            <element signature="e#831#843#0" />
+            <element signature="e#867#968#0" />
+            <element signature="e#1078#1179#0" />
+            <element signature="e#1323#1423#0" />
+            <element signature="e#2078#2177#0" />
+            <element signature="e#2295#2401#0" />
+            <element signature="n#!!block;n#HandleRegister#0" />
+            <element signature="e#2688#2791#0" />
+            <element signature="e#2807#2916#0" />
+            <element signature="e#2918#2924#0" />
+            <element signature="n#!!block;n#ShowEmail#0" />
+            <element signature="n#!!block;n#HandleEmail#0" />
+            <element signature="e#3460#3571#0" />
+            <element signature="e#3599#3714#0" />
+            <element signature="e#3716#3724#0" />
+            <element signature="e#3868#3977#0" />
+            <element signature="e#3980#3986#0" />
+            <element signature="e#4592#4627#0" />
+            <element signature="n#!!block;n#Active#0" />
+            <element signature="e#4831#4906#0" />
+            <element signature="e#5039#5115#0" />
+            <element signature="n#!!block;n#ShowLogin#0" />
+            <element signature="e#5301#5362#0" />
+            <element signature="e#5367#5435#0" />
+            <element signature="n#!!block;n#HandleLogin#0" />
+            <element signature="e#5679#5755#0" />
+            <element signature="e#5941#6193#0" />
+            <element signature="e#6010#6089#0" />
+            <element signature="e#6111#6189#0" />
+            <element signature="e#6198#6447#0" />
+            <element signature="e#6264#6344#0" />
+            <element signature="e#6365#6443#0" />
+            <element signature="e#6485#6572#0" />
+            <element signature="e#6652#6706#0" />
+            <element signature="e#6710#6761#0" />
+            <element signature="n#!!block;n#Logout#0" />
+            <element signature="n#!!block;n#ShowUserCenterInfo#0" />
+            <element signature="n#!!block;n#ShowSite#0" />
+            <element signature="e#7745#7888#0" />
+            <element signature="n#!!block;n#HandleSite#0" />
+            <element signature="e#8303#8381#0" />
+            <element signature="e#8384#8390#0" />
+            <element signature="e#8730#8773#0" />
+            <element signature="e#8972#9126#0" />
+            <element signature="e#9142#9213#0" />
+            <element signature="e#9289#9369#0" />
+            <element signature="n#!!block;n#ShowUserOrder#0" />
+            <element signature="e#9767#10066#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/学习资料/beego项目/day07/传送文件/pyg3/pyg/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="54" selection-start-line="50" selection-start-column="4" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/default.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/cart.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="194" lean-forward="true" selection-start-line="194" selection-end-line="194" />
+          <folding>
+            <element signature="e#167#195#0" />
+            <element signature="n#!!block;n#HandleAddCart#0" />
+            <element signature="e#320#330#0" />
+            <element signature="e#495#557#0" />
+            <element signature="e#626#696#0" />
+            <element signature="e#699#705#0" />
+            <element signature="e#797#875#0" />
+            <element signature="e#1046#1111#0" />
+            <element signature="n#!!block;n#ShowCart#0" />
+            <element signature="e#1311#1358#0" />
+            <element signature="e#1520#1567#0" />
+            <element signature="e#1706#2114#0" />
+            <element signature="n#!!block;n#HandleChangeCart#0" />
+            <element signature="e#2501#2563#0" />
+            <element signature="e#2622#2684#0" />
+            <element signature="e#2774#2838#0" />
+            <element signature="e#2935#2999#0" />
+            <element signature="e#3058#3840#0" />
+            <element signature="n#!!block;n#HandleDeleteCart#0" />
+            <element signature="e#4052#4113#0" />
+            <element signature="e#4186#4251#0" />
+            <element signature="e#4334#4394#0" />
+            <element signature="e#4482#4542#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="345" column="16" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index_sx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user_center_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user_center_layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2604">
+          <caret line="93" column="15" selection-start-line="93" selection-start-column="15" selection-end-line="93" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/sxlayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/user_center_order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="405" column="37" selection-start-line="405" selection-start-column="37" selection-end-line="405" selection-end-column="37" />
+          <folding>
+            <element signature="e#368#396#0" />
+            <element signature="n#!!block;n#ShowRegister#0" />
+            <element signature="n#!!block;n#HandleSendMsg#0" />
+            <element signature="e#708#796#0" />
+            <element signature="e#901#964#0" />
+            <element signature="e#1128#1223#0" />
+            <element signature="e#2162#2242#0" />
+            <element signature="e#2424#2504#0" />
+            <element signature="n#!!block;n#RespFunc#0" />
+            <element signature="e#2767#2914#0" />
+            <element signature="n#!!block;n#HandleRegister#0" />
+            <element signature="e#3138#3208#0" />
+            <element signature="n#!!block;n#ShowEmailRegitser#0" />
+            <element signature="n#!!block;n#SendEmailRegister#0" />
+            <element signature="e#3671#3758#0" />
+            <element signature="e#3885#3966#0" />
+            <element signature="e#4027#4103#0" />
+            <element signature="e#4277#4355#0" />
+            <element signature="e#4753#4848#0" />
+            <element signature="n#!!block;n#ActiveEmail#0" />
+            <element signature="e#5040#5116#0" />
+            <element signature="e#5226#5304#0" />
+            <element signature="n#!!block;n#ShowLogin#0" />
+            <element signature="n#!!block;n#HandleLogin#0" />
+            <element signature="e#5649#5718#0" />
+            <element signature="e#5883#5953#0" />
+            <element signature="n#!!block;n#LoginOut#0" />
+            <element signature="n#!!block;n#ShowUserCenterInfo#0" />
+            <element signature="e#6288#6311#0" />
+            <element signature="e#6446#6469#0" />
+            <element signature="e#6561#6669#0" />
+            <element signature="n#!!block;n#ShowSite#0" />
+            <element signature="e#7230#7272#0" />
+            <element signature="e#7278#7413#0" />
+            <element signature="n#!!block;n#HandleSite#0" />
+            <element signature="e#7880#7964#0" />
+            <element signature="e#8146#8236#0" />
+            <element signature="e#8612#8678#0" />
+            <element signature="n#!!block;n#ShowOrders#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/goods.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="159" column="18" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
+          <folding>
+            <element signature="e#187#215#0" />
+            <element signature="n#!!block;n#ShowIndex#0" />
+            <element signature="e#581#630#0" />
+            <element signature="e#636#674#0" />
+            <element signature="e#912#1140#0" />
+            <element signature="e#1177#1558#0" />
+            <element signature="e#1277#1497#0" />
+            <element signature="n#!!block;n#ShowIndexSx#0" />
+            <element signature="e#2262#2765#0" />
+            <element signature="e#4513#4536#0" />
+            <element signature="e#4677#4700#0" />
+            <element signature="n#!!block;n#ShowList#0" />
+            <element signature="e#4922#4992#0" />
+            <element signature="e#5365#5385#0" />
+            <element signature="e#5527#5545#0" />
+            <element signature="e#5551#5581#0" />
+            <element signature="e#5612#5639#0" />
+            <element signature="e#5645#5676#0" />
+            <element signature="e#5818#5839#0" />
+            <element signature="e#5864#5902#0" />
+            <element signature="e#5908#5947#0" />
+            <element signature="n#!!block;n#PageEdit#0" />
+            <element signature="e#6241#6313#0" />
+            <element signature="e#6277#6310#0" />
+            <element signature="e#6337#6401#0" />
+            <element signature="e#6365#6398#0" />
+            <element signature="e#6435#6519#0" />
+            <element signature="e#6483#6516#0" />
+            <element signature="e#6525#6611#0" />
+            <element signature="e#6575#6608#0" />
+            <element signature="n#!!block;n#Search#0" />
+            <element signature="e#6746#6816#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/order.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="285" column="37" selection-start-line="285" selection-start-column="37" selection-end-line="285" selection-end-column="37" />
+          <folding>
+            <element signature="e#230#258#0" />
+            <element signature="n#!!block;n#ShowOrder#0" />
+            <element signature="e#385#437#0" />
+            <element signature="e#744#776#0" />
+            <element signature="e#892#1347#0" />
+            <element signature="n#!!block;n#HandlePushOrder#0" />
+            <element signature="e#1987#2049#0" />
+            <element signature="e#2138#2200#0" />
+            <element signature="e#2941#4238#0" />
+            <element signature="e#3478#3557#0" />
+            <element signature="e#3782#3848#0" />
+            <element signature="e#3864#3950#0" />
+            <element signature="e#4002#4082#0" />
+            <element signature="e#4153#4235#0" />
+            <element signature="n#!!block;n#Pay#0" />
+            <element signature="e#4410#4463#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

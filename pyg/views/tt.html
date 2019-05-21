@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="application/javascript" src="../static/js/jquery-1.12.4.min.js"></script>
+    <script>
+
+        $('#c1').click(function () {
+            console.log("hello")
+            t = $(this).next().text()
+            console.log(t)
+        })
+    </script>
+</head>
+<body>
+<div>1</div>
+<div>2
+    <input type="button" value="点我" id="c1">
+    <li>1231231231</li>
+</div>
+<div>3</div>
+<div>4</div>
+
+</body>
+</html>
